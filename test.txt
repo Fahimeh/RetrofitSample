@@ -1,6 +1,10 @@
 This is first Change
 
+<<<<<<< HEAD
 second change in branch_first branch!
 
 
 4 change in first branch
+=======
+second change in second branch !
+>>>>>>> master
