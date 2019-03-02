@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1017303223549",
+    "firebase_url": "https://retrofitsample-d71fd.firebaseio.com",
+    "project_id": "retrofitsample-d71fd",
+    "storage_bucket": "retrofitsample-d71fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017303223549:android:288d289ddf8c4744",
+        "android_client_info": {
+          "package_name": "com.retrofitsample.fhashemian.retrofitsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017303223549-cdcfk41oisff4la8mjdddhhivjndm0oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUZdoOgTVuQ01ISH0aw2bviL_8PkLA3WA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
