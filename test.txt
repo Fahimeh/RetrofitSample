@@ -1,10 +1,19 @@
 This is first Change
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 second change in second branch !
 =======
+=======
+>>>>>>> first_branch
 second change in branch_first branch!
 
 
 4 change in first branch
+<<<<<<< HEAD
 >>>>>>> daa67971be9747481531a3d0eee388b53947c8a9
+=======
+=======
+second change in second branch !
+>>>>>>> master
+>>>>>>> first_branch
